@@ -1,5 +1,6 @@
 # ml-boids
 My own custom boids implementation. Built using Processing 3.3.6.
+A demo can be found here: https://youtu.be/DNTOa_gTfv0
 
 I recently played around with the 'Boids' flocking algorithm. For anyone unfamiliar, it is an algorithm designed to produce complex interactions between a number of entities following simple rules. A new system is generated whenever the spacebar is pressed. Left clicking and right clicking place disruptors that either attract or repulse boids, respectively.
 
